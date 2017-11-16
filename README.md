@@ -1,34 +1,16 @@
-## IT 227 Introduction to Game Programming
-> Outcomes-Based Education (OBE) Course Design/Syllabus
+![school](school.png "logo")<br>
 
-#### University
- * **Vision:** WVSU as one of the top universities in Southeast Asia
- * **Mission:** To produce globally-competitive life-long learners
- * **Core Values:** Service, Harmony, Excellence
- * **Institutional Outcome:** TAGA-West...
-  * is a creative and critical thinker
-  * is an effective and responsible communicator
-  * has uncompromising and professional ethical standard
-  * is technologically skilled
-  * has steaming and collaborative skilled
-  * is socially responsible and has strong national identity
-  * is globally employable
+## ITLEC4 Introduction to Game Programming
+> Course Design/Syllabus
 
+#### Institute
+ * **Vision:** Western Institute of Technology— "The Home of the Learned committed to WISDOM, INTEGRITY and TRUTH, and the legacy of providing equal opportunities for the underprivileged"
 
-#### College/Campus: TAGA-West...
-  * Value-laden professional(responsible, accountable, independent, resourceful, trustworthy, refined, God-fearing, service-oriented, considerate of others, tactful)
-  * Expert of his/her field/competent(skillful/talented, versatile, productive, competitive, artistic, confident)
-  * Life-long learner, change agent, innovative, resourceful)
-  * Has communicative competence(articulate, has language facility, can open/relay ideas clearly
-
-#### College Outcome: TAGA-West...
-Specifically, the school endeavors to:
-  1. Exhibit a culture of excellence.
-  1. Provide relevant curriculum to produce effective facilitators of learning.
-  1. Undertake research and extension services.
-  1. Collaborate and share expertise with local and international entities.
-  1. Provide educational opportunities to deserving clientele.
-  1. Optimize social and individual returns and benefits from utilization of resources.
+ * **Mission:** It is the School’s mission to:
+  * Nurture human beings towards holistic development responsive to local and global needs
+  * Provide competent manpower for education, commerce, technology and other fields of industry
+  * Provide a center of excellence in Engineering, Business, Science, the Arts, the Maritime Industry, and Information Technology
+  * Provide a high-quality Senior High School education
 
 #### Program/Degree
 Introduction to Game Programming
@@ -40,18 +22,19 @@ Introduction to Game Programming
   1. Utilize modern computing tools
 
 #### Course No. and Title
-IT 227 Introduction to Game Programming
-* Prerequisite: IT 203, IT 205
+ITLEC4 Introduction to Game Programming
 
 #### School Year | Semester | Schedule
-2017-2018 | Second | Tuesday, 3:00 PM - 4:00 PM; Thursday, 4:00 PM - 6:00 PM.
+2017-2018 | Second | Monday to Saturday | IT 4A, IT 4B
 
 #### Course Description
 > This course provides students with an in-depth introduction to technologies and best practices used in the game development industry today and is focused on rapidly developing game prototypes.
 
 **Topics include**
+* Phases of Game Development
 * Game Development History
 * Exploration of open and closed source game engines ([Phaser](http://phaser.io/), [Blender Game Engine](http://blender.org/), [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4), [Unity 3D](http://unity3d.com/), [Godot](http://www.godotengine.org/projects/godot-engine), [jMonkeyEngine](http://jmonkeyengine.org/tour/introduction/) ...etc)
+* Game types
 * Game design and mechanics
 * Game assets and prefabs
 * World/Level Design
@@ -104,7 +87,6 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 
 ### Reminders
 * Please observe computer laboratory rules. Rules are posted inside the room.
-* Laboratory workstations have limitations when it comes to local or external disks access, network sharing is also prohibited so please do inform your teacher if you need to transfer your files. A local FTP server is also hosted in class to assist to with file transfer transactions.
 * Always backup your working directory on the FTP server provided by your teacher.
 * Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
 * Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
@@ -117,7 +99,7 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 
 | Topic | Discussion |
 | ---- | ---- |
-| **Class 1**. The University and Institute | Vision, Mission, Core Values, Outcomes of West Visayas State Univeristy and Objectives of Institute of Information and Communications Technology
+| **Class 1**. The Institute | Vision and Mission
 | **Class 2**. Introduction | Discuss what the class is going to cover, show intro demos, the course requirements and class reminders.<br> <br>**Homework**<br><ul><li>Create a [GitHub account](https://github.com). If you are comfortable with Git already, you can skip this.</li><li>Join the [chat room](https://gitter.im/iict-it227/iict-gamedevs-f1?utm_source=share-link&utm_medium=link&utm_campaign=share-link)</li><li>Install the game engines if you have a Desktop/Laptop computer</li><li>Write your GitHub account **username** and **fullname** on a **1/4 sheet of intermediate pad** and submit it to your teacher next meeting.</li></ul>
 | **Class 3**. Foundations of Game Development | <ul><li>What is a game? <ul><li>History</li><li>Elements</li></ul></li><li>The Game Design Process<ul><li>Gameplay and Mechanics</li><li>Pitch Document</li></ul></li><li>Exploring the game development tools</li><li>2D and 3D game development</li><li>Artificial Intelligence for Games</li></ul>**Lab Exercise**<br><ul><li>Kudo Game Lab / Project Spark (**#group** - maximum of five members per team)</li></ul> **Homework**<br><ul><li>[GitHub practice](https://github.com/iict-it227/students) - "Code Bending". Learn how to push and pull code.</li><li>Pitch document for your Kudo Game (**#group** - maximum of five members per team) **- to be presented in class with a demo.**</li></ul>
 | **Class 4**. Gaming on the Web. | <ul><li>HTML5 game programming using the [Phaser Game Engine](http://phaser.io/).</li><li>Exploration of HTML5 2D and 3D game demos.</li></ul>**Homework**<br><ul><li>Project "[lupad](https://github.com/iict-it227/homework-rocketship)".</li></ul>
@@ -125,37 +107,7 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/Des
 | **Class 6**. Game Development using Unreal Game Engine | <ul><li>Unreal Engine 4 Basics.<ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Actors</li><li>Running the Build Process</li></ul></li><li>Programming<ul><li>Implementing Artificial Intelligence in UE4</li><li>Blueprints and Visual Scripting</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul>**Homework**<br><ul><li>Third Person Horror  Game (**#group** - maximum of five members per team).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
 | **Class 7**. Game Development with Unity | <ul><li>First look at Unity Game Engine</li><ul><li>Viewport and Navigation</li><li>Level Designing</li><li>Game Objects</li><li>Running the Build Process</li></li></ul><li>Programming<ul><li>Implementing Artificial Intelligence in Unity</li><li>C# using MonoDevelop for Unity</li></ul></li><li>Platform Development</li><li>GUI Coding</li><li>Networking and Multiplayer</li></ul></ul>**Homework**<br><ul><li>Multiplayer Flying Shooter  Game (**#group** - maximum of five members per team).</li>- to be presented in class and rated by your classmates.<br> - groups can use prefabs.</ul>
 
-#### Grading
-> Midterm
-
-Criteria | %
----- | :----:
-Homework | 25%
-Laboratory Game Projects | 15%
-Midterm Game Project | 20%
-Midterm Exam | 30%
-Participation | 10%
-
-
-> Finals
-
-Criteria | %
----- | :----:
-Homework | 25%
-Laboratory Game Projects | 15%
-Finals Game Project | 20%
-Mini-GameDev Seminar | 30%
-Participation | 10%
-
-Final Grade = 50% (midterm) + 50% (tentative)
-***
 ## Resources
-
-### CICT Unreal
-
-The CICT Building in Unreal Game Engine integrated with a third person controller (VR ready). Click [here](https://github.com/wvsu-cict-code/cict-unreal) to open the repository.
-![cictunreal](https://github.com/wvsu-cict-code/cict-unreal/raw/master/snap.png)
-
 
 ### Recommended Reading
 > In random order.
@@ -192,4 +144,4 @@ Happy coding,
 
 ![logo](logo.png "logo")<br>
 **mjsolidarios**
-<br>part-time-faculty | [cictwvsu](http://cictwvsu.com/) | ph
+<br>part-time-faculty | wvsu, wit | ph
