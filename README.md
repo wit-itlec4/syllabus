@@ -7,10 +7,10 @@
  * **Vision:** Western Institute of Technology— "The Home of the Learned committed to WISDOM, INTEGRITY and TRUTH, and the legacy of providing equal opportunities for the underprivileged"
 
  * **Mission:** It is the School’s mission to:
-  * Nurture human beings towards holistic development responsive to local and global needs
-  * Provide competent manpower for education, commerce, technology and other fields of industry
-  * Provide a center of excellence in Engineering, Business, Science, the Arts, the Maritime Industry, and Information Technology
-  * Provide a high-quality Senior High School education
+      * Nurture human beings towards holistic development responsive to local and global needs
+      * Provide competent manpower for education, commerce, technology and other fields of industry
+      * Provide a center of excellence in Engineering, Business, Science, the Arts, the Maritime Industry, and Information Technology
+      * Provide a high-quality Senior High School education
 
 #### Program/Degree
 Introduction to Game Programming
